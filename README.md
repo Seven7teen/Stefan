@@ -4,3 +4,4 @@ elena
 Vampire
 Damon
 Caroline
+Bonnie
